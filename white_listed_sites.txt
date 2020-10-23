@@ -28,3 +28,6 @@ www.joelonsoftware.com
 www.quora.com
 www.techotopia.com
 www.topcoder.com
+www.digiskills.pk
+www.elearning.com
+www.cloudfoundations.com
